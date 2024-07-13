@@ -9,3 +9,4 @@ All about Bash Shell topics
 3. Conditions
 4. Funtions
 5. Loops
+6. 
